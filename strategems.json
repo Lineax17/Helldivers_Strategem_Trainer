@@ -1,10 +1,12 @@
 {
   "500KG": {
     "name": "500KG",
-    "code": "WDSSS"
+    "keys": [
+      "w", "d", "s", "s", "s"
+    ]
   },
   "Eagle-Airstrike": {
     "name": "Eagle-Airstrike",
-    "code": "WDSD"
+    "code": ["w", "d", "s", "d"]
   }
 }

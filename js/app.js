@@ -1,9 +1,15 @@
-console.log('Hello World');
+console.log('Hello World')
+main("500KG")
 
-//document.getElementById("start-button").addEventListener("click", function() {})
+function main(string) {
+    const fs = require('fs')
 
-function startTraining() {
-    alert("Prepare yourself. Your training is starting now!")
-    window.location.href = "trainer.html"
+    let rawdata = fs.readFileSync('strategems.json', 'utf8')
+    let strategem = JSON.parse(rawdata)
+    let keys = strategem.keys
+    console.log(keys)
 }
+
+
+
 
