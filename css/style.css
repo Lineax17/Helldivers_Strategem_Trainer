@@ -9,3 +9,12 @@ body{
 .strategem_code{
     margin-top: 30%;
 }
+
+.arrow{
+    width: 40px;
+    height: 40px;
+}
+
+.arrow_container{
+    text-align: center;
+}
