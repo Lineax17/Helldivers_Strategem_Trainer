@@ -513,6 +513,8 @@ function startTraining(number) {
     })
 }
 
+
+
 function generateTraining(number) {
     var newWindow = window.open('', '_blank', 'width=600,height=400');
 

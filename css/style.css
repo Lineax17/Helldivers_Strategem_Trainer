@@ -1,20 +1,40 @@
-body{
-    background-color:black;
-    color:white;
-    font-family:Arial, Helvetica, sans-serif;
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 20%;
     margin-right: 20%;
 }
 
-.strategem_code{
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.strategem_code {
     margin-top: 30%;
 }
 
-.arrow{
+.arrow {
     width: 40px;
     height: 40px;
 }
 
-.arrow_container{
+.arrow_container {
     text-align: center;
+}
+
+#description{
+    text-align: center;
+    font-size: 20px;
+}
+
+#header{
+    text-align: center;
+}
+
+#header_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
