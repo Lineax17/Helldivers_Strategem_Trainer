@@ -33,7 +33,7 @@ img {
     text-align: center;
 }
 
-#header_image{
+.header_image{
     display: flex;
     justify-content: center;
     align-items: center;
