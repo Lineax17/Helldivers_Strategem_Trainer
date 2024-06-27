@@ -1,5 +1,9 @@
 console.log('Javascript link working')
 
+/**
+ * Starts training a stratagem code according to the number.
+ * @param number The number of the stratagem in the stratagem.json file.
+ */
 function startTraining(number) {
     /*
     let data = strategems[number]
@@ -41,6 +45,11 @@ function startTraining(number) {
     })
 }
 
+/**
+ * Switches the color of the arrow from white to yellow if the right button is pressed.
+ * @param buttonsToPress The buttons to press for the call in code.
+ * @param index The current index.
+ */
 function toggleArrow(buttonsToPress, index) {
     index1 = Number(index + 1)
     currentSymbol = document.getElementById("arrow" + index1).src;
