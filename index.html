@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Helldivers-Strategem-Trainer</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="/js/app.js"></script>
@@ -63,20 +64,21 @@
 <a href="eagle_110mm.html"><img src="media/strategems/hangar/Eagle 110MM Rocket Pods.svg" alt="Icon"></a>
 <a href="eagle-500KG.html"><img src="media/strategems/hangar/Eagle 500KG Bomb.svg" alt="Icon"></a>
 
+
+
+
 <!--Voiceflow integration insists on being in index.html file-->
 <script type="text/javascript">
-    (function (d, t) {
+    (function(d, t) {
         var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        v.onload = function () {
+        v.onload = function() {
             window.voiceflow.chat.load({
-                verify: {projectID: '66657b7e9f18d4a99a1cb9fa'},
+                verify: { projectID: '66657b7e9f18d4a99a1cb9fa' },
                 url: 'https://general-runtime.voiceflow.com',
                 versionID: 'production'
             });
         }
-        v.src = "https://cdn.voiceflow.com/widget/bundle.mjs";
-        v.type = "text/javascript";
-        s.parentNode.insertBefore(v, s);
+        v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
     })(document, 'script');
 </script>
 
