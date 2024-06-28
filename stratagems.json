@@ -90,6 +90,7 @@
   },
 
   {
+    "number": 11,
     "name": "Guard_Dog_Rover",
     "keys": [
       "s","w","a","w","d","d"
@@ -97,6 +98,7 @@
   },
 
   {
+    "number": 12,
     "name": "Incindiary_Mines",
     "keys": [
       "s","a","a","s"
@@ -104,6 +106,7 @@
   },
 
   {
+    "number": 13,
     "name": "Laser_Cannon",
     "keys": [
       "s","a","s","w","a"
@@ -111,6 +114,7 @@
   },
 
   {
+    "number": 14,
     "name": "Quasar_Cannon",
     "keys": [
       "s","s","w","a","d"
@@ -118,6 +122,7 @@
   },
 
   {
+    "number": 15,
     "name": "Shield_Generator_Pack",
     "keys": [
       "s","w","a","d","a","d"
@@ -125,6 +130,7 @@
   },
 
   {
+    "number": 16,
     "name": "Supply_Pack",
     "keys": [
       "s","a","s","w","w","d"
@@ -132,6 +138,7 @@
   },
 
   {
+    "number": 17,
     "name": "Eagle_Airstrike",
     "keys": [
       "w","d","s","d"
@@ -139,6 +146,7 @@
   },
 
   {
+    "number": 18,
     "name": "Eagle_Cluster_Bomb",
     "keys": [
       "w","d","s","s","d"
@@ -146,6 +154,7 @@
   },
 
   {
+    "number": 19,
     "name": "Eagle_Napalm_Strike",
     "keys": [
       "w","d","s","w"
@@ -153,6 +162,7 @@
   },
 
   {
+    "number": 20,
     "name": "Eagle_Rearm",
     "keys": [
       "w","w","a","w","d"
@@ -160,6 +170,7 @@
   },
 
   {
+    "number": 21,
     "name": "Eagle_Smoke_Strike",
     "keys": [
       "w","d","w","s"
@@ -167,6 +178,7 @@
   },
 
   {
+    "number": 22,
     "name": "Eagle_Strafing_Run",
     "keys": [
       "w","d","d"
@@ -174,6 +186,7 @@
   },
 
   {
+    "number": 23,
     "name": "Eagle_110MM_Rocket_Pods",
     "keys": [
       "w","d","w","a"
@@ -181,6 +194,7 @@
   },
 
   {
+    "number": 24,
     "name": "Eagle_500KG_Bomb",
     "keys": [
       "w","d","s","s","s"
@@ -188,6 +202,7 @@
   },
 
   {
+    "number": 25,
     "name": "Jump_Pack",
     "keys": [
       "s","w","w","s","w"
@@ -195,6 +210,7 @@
   },
 
   {
+    "number": 26,
     "name": "Orbital_Airburst_Strike",
     "keys": [
       "d","d","d"
@@ -202,6 +218,7 @@
   },
 
   {
+    "number": 27,
     "name": "Orbital_Gatling_Barrage",
     "keys": [
       "d","s","a","w","w"
@@ -209,6 +226,7 @@
   },
 
   {
+    "number": 28,
     "name": "Orbital_Laser",
     "keys": [
       "d","s","w","d","s"
@@ -216,6 +234,7 @@
   },
 
   {
+    "number": 29,
     "name": "Orbital_Railcannon_Strike",
     "keys": [
       "d","w","s","s","d"
@@ -231,6 +250,7 @@
   },
 
   {
+    "number": 31,
     "name": "Orbital_120MM_HE_Barrage",
     "keys": [
       "d","d","s","a","d","s"
@@ -238,6 +258,7 @@
   },
 
   {
+    "number": 32,
     "name": "Orbital_380MM_HE_Barrage",
     "keys": [
       "d","s","w","w","a","s","s"
@@ -245,6 +266,7 @@
   },
 
   {
+    "number": 33,
     "name": "Airburst_Rocket_Launcher",
     "keys": [
       "s","w","w","a","d"
@@ -252,6 +274,7 @@
   },
 
   {
+    "number": 34,
     "name": "Anti-Materiel_Rifle",
     "keys": [
       "s","a","d","w","s"
@@ -259,6 +282,7 @@
   },
 
   {
+    "number": 35,
     "name": "Autocannon",
     "keys": [
       "s","a","s","w","w","d"
@@ -266,6 +290,7 @@
   },
 
   {
+    "number": 36,
     "name": "Expendable_Anti-Tank",
     "keys": [
       "s","s","a","w","d"
@@ -273,6 +298,7 @@
   },
 
   {
+    "number": 37,
     "name": "Flamethrower",
     "keys": [
       "s","a","w","s","w"
@@ -280,6 +306,7 @@
   },
 
   {
+    "number": 38,
     "name": "Heavy_Machine_Gun",
     "keys": [
       "s","a","w","s","s"
@@ -287,6 +314,7 @@
   },
 
   {
+    "number": 39,
     "name": "Machine_Gun",
     "keys": [
       "s","a","s","w","d"
@@ -294,6 +322,7 @@
   },
 
   {
+    "number": 40,
     "name": "Railgun",
     "keys": [
       "s","d","s","w","a","d"
@@ -301,6 +330,7 @@
   },
 
   {
+    "number": 41,
     "name": "Recoilless_Rifle",
     "keys": [
       "s","a","d","d","a"
@@ -308,6 +338,7 @@
   },
 
   {
+    "number": 42,
     "name": "Spear",
     "keys": [
       "s","s","w","s","s"
@@ -315,6 +346,7 @@
   },
 
   {
+    "number": 43,
     "name": "Stalwart",
     "keys": [
       "s","a","s","w","w","a"
@@ -330,6 +362,7 @@
   },
 
   {
+    "number": 45,
     "name": "Emancipator_Exosuit",
     "keys": [
       "a","s","d","w","a","s","w"
@@ -337,6 +370,7 @@
   },
 
   {
+    "number": 46,
     "name": "EMS_Mortar_Sentry",
     "keys": [
       "s","w","d","s","d"
@@ -344,6 +378,7 @@
   },
 
   {
+    "number": 47,
     "name": "Gatling_Sentry",
     "keys": [
       "s","w","d","a"
@@ -351,6 +386,7 @@
   },
 
   {
+    "number": 48,
     "name": "Guard_Dog",
     "keys": [
       "s","w","a","w","d","s"
@@ -358,6 +394,7 @@
   },
 
   {
+    "number": 49,
     "name": "Machine_Gun_Sentry",
     "keys": [
       "s","w","d","d","w"
@@ -365,6 +402,7 @@
   },
 
   {
+    "number": 50,
     "name": "Mortar_Sentry",
     "keys": [
       "s","w","d","d","s"
@@ -372,6 +410,7 @@
   },
 
   {
+    "number": 51,
     "name": "Patriot_Exosuit",
     "keys": [
       "a","s","d","w","a","s","s"
@@ -379,6 +418,7 @@
   },
 
   {
+    "number": 52,
     "name": "Rocket_Sentry",
     "keys": [
       "s","w","d","d","a"
@@ -386,6 +426,7 @@
   },
 
   {
+    "number": 53,
     "name": "Dark_Fluid_Vessel",
     "keys": [
       "w","a","d","s","w","w"
@@ -401,6 +442,7 @@
   },
 
   {
+    "number": 55,
     "name": "Orbital_Illumination_Flare",
     "keys": [
       "d","d","a","a"
@@ -408,6 +450,7 @@
   },
 
   {
+    "number": 56,
     "name": "Prospecting_Drill",
     "keys": [
       "s","s","a","d","s","s"
@@ -415,6 +458,7 @@
   },
 
   {
+    "number": 57,
     "name": "Reinforce",
     "keys": [
       "w","s","d","a","w"
@@ -422,6 +466,7 @@
   },
 
   {
+    "number": 58,
     "name": "Resupply",
     "keys": [
       "s","s","w","d"
@@ -429,6 +474,7 @@
   },
 
   {
+    "number": 59,
     "name": "SEAF_Artillery",
     "keys": [
       "d","w","w","s"
@@ -444,6 +490,7 @@
   },
 
   {
+    "number": 61,
     "name": "SOS_Beacon",
     "keys": [
       "w","s","d","w"
@@ -451,6 +498,7 @@
   },
 
   {
+    "number": 62,
     "name": "Super_Earth_Flag",
     "keys": [
       "s","w","s","w"
@@ -458,6 +506,7 @@
   },
 
   {
+    "number": 63,
     "name": "Tectonic_Drill",
     "keys": [
       "w","s","w","s","w","s"
