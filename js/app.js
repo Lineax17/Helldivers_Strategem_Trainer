@@ -5,12 +5,7 @@ console.log('Javascript link working')
  * @param number The number of the stratagem in the stratagem.json file.
  */
 function startTraining(number) {
-    /*
-    let data = strategems[number]
-    let buttonsToPress = data.keys;
-    let index = 0;
 
-     */
     let buttonsToPress;
     let index = 0;
 
@@ -31,11 +26,9 @@ function startTraining(number) {
         if (event.key == buttonsToPress[index]) {
             toggleArrow(buttonsToPress, index)
             index++
-            //console.log("Index: " + index + " Key: " + event.key)
             if (index == buttonsToPress.length) {
                 index = 0
                 this.location.reload()
-                //alert("Richtig!")
             }
         } else {
             this.alert("Falscher Key!")
